@@ -48,7 +48,7 @@
     ]
   },
   "dependencies": {
-    "@blueprintjs/core": "^4.3.1",
+    "@blueprintjs/core": "^4.3.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@lexical/react": "^0.2.7",
